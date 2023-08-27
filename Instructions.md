@@ -6,7 +6,7 @@ To pull a repository on the command line, use the following command (using this 
 ```
 git clone -b master https://github.com/AKHughes1994/GitHubGuide.git
 touch file.py
-git add file.py
+git add -A
 git commit -m "Added File"
 ```
 
