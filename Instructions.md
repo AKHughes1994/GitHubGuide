@@ -19,3 +19,8 @@ If we instead want to submit a merge request we could write:
 ```
 
 ```
+
+If we want to sync the local repository with the remote
+```
+git pull origin master
+```
