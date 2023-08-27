@@ -19,3 +19,13 @@ If we want to sync the local repository with the remote
 ```
 git pull origin master
 ```
+
+To make a new branch locally
+```
+git checkout -b new_branch
+git add -A
+git commit -m "Added new branch"
+git push -u origin new_branch
+``
+
+
