@@ -27,5 +27,3 @@ git add -A
 git commit -m "Added new branch"
 git push -u origin new_branch
 ```
-
-## Here is how to set up the SSH key for Github
